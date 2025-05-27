@@ -1,2 +1,0 @@
-# spider
-my spider code
